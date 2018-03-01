@@ -3,10 +3,10 @@ library(foreign)
 library(plyr)
 
 #read in poll
-poll.data <- read.csv("C:/Documents and Settings/Stephen Clermont/My Documents/Personal/R Work/MRP/CCES Short-1a.csv") 
+poll.data <- read.csv("CCES Short-1a.csv") 
 head(poll.data)
 #read in Census data
-census <- read.csv("C:/Documents and Settings/Stephen Clermont/My Documents/Personal/R Work/MRP/poststratification 2016.csv")
+census <- read.csv("Cpoststratification 2016a.csv")
 
 #Create index variables
 
