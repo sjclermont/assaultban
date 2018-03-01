@@ -1,4 +1,6 @@
-# This data was used to create the state and congressional district estimates. They use gender, age, education, and race from the survey and the most recent Census estimates using the American Community Survey most recent 5 year estimates.
+# Read Me
+
+This data was used to create the state and congressional district estimates. They use gender, age, education, and race from the survey and the most recent Census estimates using the American Community Survey most recent 5 year estimates.
 
 The coding for the variables are:
 Sex: 0-Women, 1-Men
